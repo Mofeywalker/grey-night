@@ -41,6 +41,7 @@ grey_night:
   lumo-tint-5pct: "var(--darker-grey-color)"
   medium-grey-color: "#202020"
   paper-button-ink-color: "hsl(var(--huesat) 50%)"
+  card-background-color: "var(--paper-card-background-color)"
   paper-card-background-color: "hsl(var(--huesat) 12%)"
   paper-card-header-color: "hsl(var(--huesat) 90%)"
   paper-dialog-background-color: "var(--paper-card-background-color)"
